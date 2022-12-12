@@ -1,7 +1,7 @@
 ---
 
 title: "A Paradigm Shift toward Semantic Communications"
-authors: [KaiNiu, JinchengDai, SixianWang, ShengshiYao, ZhongweiSi, XiaoqiQin, PingZhang]
+authors: [KaiNiu, JinchengDai, ShengshiYao, SixianWang, ZhongweiSi, XiaoqiQin, PingZhang]
 date: 2022-08
 doi: ""
 
